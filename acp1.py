@@ -21,4 +21,4 @@ def main():
 
     print(f"Iterative multiplication: {n} * {m} = {iterative_result}")
     print(f"Recursive multiplication: {n} * {m} = {recursive_result}")
-    fun
+
